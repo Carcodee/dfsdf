@@ -1,0 +1,34 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class #SCRIPTNAME# : CharacterStateBase
+{   
+    [Header("#SCRIPTNAME#")]
+    [Header("Animations")]
+    public string animationName;
+    public override void StateEnter()
+    {
+        
+    }
+    public override void StateExit()
+    {
+        
+    }
+    public override void StateLoop()
+    {
+       
+    }
+    public override void StatePhysicsLoop()
+    {
+        
+    }
+    public override void StateLateLoop()
+    {
+        
+    }
+    public override void StateInput()
+    {
+        
+    }
+}
